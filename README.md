@@ -45,3 +45,20 @@ Repository of ressources about the human intelligence and artificial general int
 [LessWrong](https://www.lesswrong.com/)
 
 [Future of life articles on AI](https://futureoflife.org/ai-news/)
+
+## To read
+
+https://singularityhub.com/2019/06/02/less-like-us-an-alternate-theory-of-artificial-general-intelligence/
+https://en.wikipedia.org/wiki/Artificial_general_intelligence
+https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
+https://intelligence.org/
+https://www.lesswrong.com/s/7gRSERQZbqTuLX5re/p/a7n8GdKiAZRX86T5A
+https://www.lesswrong.com/hpmor/chapter-1-a-day-of-very-low-probability
+https://www.lesswrong.com/codex/eight-short-studies-on-excuses
+https://www.lesswrong.com/posts/2rWKkWuPrgTMpLRbp/lesswrong-faq#Getting_Started
+https://www.lesswrong.com/library
+https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside
+https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
+https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#7c87d7336dc4
+https://www.youtube.com/watch?v=c8-OeGYRFpI
+https://www.google.com/search?client=firefox-b-d&q=Whole+brain+emulation
