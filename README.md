@@ -36,6 +36,8 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
+[Future of life articles on AI](https://futureoflife.org/ai-news/)
+
 ### Miscellaneous
 
 [Distill Journal](https://distill.pub/)
