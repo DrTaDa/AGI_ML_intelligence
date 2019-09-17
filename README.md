@@ -1,24 +1,18 @@
 # Database of definition and notes on AGI and intelligence
 
-## Goal 
+Repository of ressources I use to write and do research about the human intelligence and the creation of and artificial general intelligence (AGI). I am not interested here about progress and research in machine learning, however some research on ML might be relevant to the discussion.
 
-Through this repository I want to help people access ressources about the research performed on the human brain and the progresses made toward the creation of and artificial general intelligence (AGI).
+## Collection of ressources
 
-Warning: this list of ressrouces is about AGI and intelligence. It it not about machine learning.
+### Research centers and laboratories in AI
 
-Stutton (http://incompleteideas.net/)
+[Numenta laboratory leaded by Jeff Hawkins](https://numenta.com/)
 
-AGI MIT course (https://agi.mit.edu/)
+[OpenAI](https://openai.com/)
 
-Lex Fridman Artificial Intelligence Podcast (https://lexfridman.com/ai/)
+[Google DeepMind](https://deepmind.com/research)
 
-Jeff Hawkins (https://numenta.com/)
-
-OpenAI (https://openai.com/progress/)
-
-Google DeepMind (https://deepmind.com/research)
-
-## Neuroscience project working on intelligence
+### Research centers and laboratories in Neuroscience related to intelligence
 
 The human brain project (https://www.humanbrainproject.eu/en/)
 
@@ -26,10 +20,25 @@ Blue Brain Project (https://www.epfl.ch/research/domains/bluebrain/)
 
 Allen institute for brain science (https://alleninstitute.org/what-we-do/brain-science/research/scientific-publications/)
 
-## Miscellaneous
+BRAIN Initiative (https://braininitiative.nih.gov/)
+
+Brain/MINDS (http://brainminds.jp/en/)
+
+Human Connectome Project (http://www.humanconnectomeproject.org/)
+
+### Blogs and personal pages
+
+[Richard S. Sutton personal page](http://incompleteideas.net/)
 
 http://cognitivemedium.com/tat/
 
-## Quotes
+### Videos, courses and podcasts
+
+[AGI course proposed by the MIT in 2018](https://agi.mit.edu/)
+
+[Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
+
+### Miscellaneous
+
 
 
