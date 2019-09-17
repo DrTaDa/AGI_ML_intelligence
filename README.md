@@ -6,7 +6,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ### Research centers and laboratories in AI
 
-[Numenta laboratory leaded by Jeff Hawkins](https://numenta.com/)
+[Numenta](https://numenta.com/)
 
 [OpenAI](https://openai.com/)
 
