@@ -1,4 +1,4 @@
-# Advances toward AGI and understanding of intelligence
+# Advances toward AGI and the understanding of intelligence
 
 Repository of ressources about the human intelligence and artificial general intelligence (AGI). I am not interested here about progress and research in machine learning, however some research on ML might be relevant to the discussion. I will not discuss here the topic of the threat AGI might pose or the danger of AI/ML.
 
