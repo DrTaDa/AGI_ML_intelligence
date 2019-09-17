@@ -14,9 +14,7 @@ OpenAI (https://openai.com/progress/)
 
 Google DeepMind (https://deepmind.com/research)
 
----------------------------------------
-
-# Diverse posts
+## Diverse posts
 
 http://cognitivemedium.com/tat/
 
