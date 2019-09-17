@@ -4,7 +4,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ## Collection of ressources
 
-### Research centers and laboratories working directly on the problem of AGI
+### Research centers working directly on AGI, AI/ML
 
 [Numenta](https://numenta.com/)
 
@@ -12,7 +12,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Google DeepMind](https://deepmind.com/research)
 
-### Research centers and laboratories in Neuroscience related to intelligence
+### Research centers in Neuroscience related to intelligence
 
 [The human brain project](https://www.humanbrainproject.eu/en/)
 
