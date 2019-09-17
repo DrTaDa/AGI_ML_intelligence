@@ -40,4 +40,5 @@ Repository of ressources I use to write and do research about the human intellig
 
 [Distill Journal](https://distill.pub/)
 
+[Wikipedia page on AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
