@@ -8,7 +8,7 @@ AGI MIT course (https://agi.mit.edu/)
 
 Lex Fridman Artificial Intelligence Podcast (https://lexfridman.com/ai/)
 
-Jeff Hawkins (https://numenta.com/, )
+Jeff Hawkins (https://numenta.com/)
 
 OpenAI (https://openai.com/progress/)
 
@@ -17,5 +17,7 @@ Google DeepMind (https://deepmind.com/research)
 ## Miscellaneous
 
 http://cognitivemedium.com/tat/
+
+## Quotes
 
 
