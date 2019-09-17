@@ -32,7 +32,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ### Videos, courses and podcasts
 
-[AGI course proposed by the MIT in 2018](https://agi.mit.edu/)
+[2018 MIT AGI course](https://agi.mit.edu/)
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
