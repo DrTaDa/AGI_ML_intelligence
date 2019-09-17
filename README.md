@@ -4,7 +4,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ## Collection of ressources
 
-### Research centers and laboratories working directly on the problem AGI
+### Research centers and laboratories working directly on the problem of AGI
 
 [Numenta](https://numenta.com/)
 
