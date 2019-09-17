@@ -1,5 +1,9 @@
 # Database of definition and notes on AGI and intelligence
 
+## Goal 
+
+Through this repository I want to help people access ressources about the research performed on the human brain and the progresses made toward the creation of and artficial general intelligence (AGI).
+
 Warning: this list of ressrouces is about AGI and intelligence. It it not about machine learning.
 
 Stutton (http://incompleteideas.net/)
