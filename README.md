@@ -36,6 +36,8 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
+[LessWrong](https://www.lesswrong.com/)
+
 ### Miscellaneous
 
 [Distill Journal](https://distill.pub/)
