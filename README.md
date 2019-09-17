@@ -36,11 +36,10 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
-[LessWrong](https://www.lesswrong.com/)
-
 ### Miscellaneous
 
 [Distill Journal](https://distill.pub/)
 
 [Wikipedia page on AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
+[LessWrong](https://www.lesswrong.com/)
