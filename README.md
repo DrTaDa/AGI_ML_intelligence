@@ -36,8 +36,6 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
-[Future of life articles on AI](https://futureoflife.org/ai-news/)
-
 ### Miscellaneous
 
 [Distill Journal](https://distill.pub/)
@@ -45,3 +43,5 @@ Repository of ressources about the human intelligence and artificial general int
 [Wikipedia page on AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
 [LessWrong](https://www.lesswrong.com/)
+
+[Future of life articles on AI](https://futureoflife.org/ai-news/)
