@@ -55,7 +55,7 @@ https://intelligence.org/
 
 https://www.lesswrong.com/hpmor/chapter-1-a-day-of-very-low-probability
 https://www.lesswrong.com/codex/eight-short-studies-on-excuses
-https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/R8cpqD3NA4rZxRdQ4
+https://www.lesswrong.com/s/PtgH6ALi5CoJnPmGS/p/okdusZkDRsQ6zCRDD
 https://www.lesswrong.com/codex
 https://www.lesswrong.com/s/ZNNi2uNx9E6iwGKKG
 https://www.lesswrong.com/s/pC6DYFLPMTCbEwH8W
