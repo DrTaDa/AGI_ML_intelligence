@@ -66,6 +66,4 @@ https://www.lesswrong.com/s/zucjLBpQ9S9eWPWGu/p/yeADMcScw8EW9yxpH
 
 https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
 
-https://en.wikipedia.org/wiki/Mind_uploading
-
 https://www.youtube.com/watch?v=c8-OeGYRFpI
