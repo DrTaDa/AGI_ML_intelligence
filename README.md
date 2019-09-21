@@ -48,24 +48,24 @@ Repository of ressources about the human intelligence and artificial general int
 
 ## To read
 
-https://singularityhub.com/2019/06/02/less-like-us-an-alternate-theory-of-artificial-general-intelligence/
-https://en.wikipedia.org/wiki/Artificial_general_intelligence
-https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
+http://www.idsia.ch/idsia_en.html
+
+https://www.vicarious.com/research/
+
+https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
+
+https://opencog.org/
+
+https://ieeexplore.ieee.org/document/7013390
+
+https://neuroscience.berkeley.edu/
+
 https://intelligence.org/
 
-https://www.lesswrong.com/hpmor/chapter-1-a-day-of-very-low-probability
-https://www.lesswrong.com/codex/eight-short-studies-on-excuses
-https://www.lesswrong.com/s/PtgH6ALi5CoJnPmGS/p/okdusZkDRsQ6zCRDD
-https://www.lesswrong.com/codex
-https://www.lesswrong.com/s/ZNNi2uNx9E6iwGKKG
-https://www.lesswrong.com/s/pC6DYFLPMTCbEwH8W
-https://www.lesswrong.com/s/xmDeR64CivZiTAcLx
-https://www.lesswrong.com/s/FYMiCeXEgMzsB5stm
-https://www.lesswrong.com/s/zucjLBpQ9S9eWPWGu
-https://www.lesswrong.com/s/n44Fqx5W4BhMugCMS
-https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside
+https://www.lesswrong.com/s/zucjLBpQ9S9eWPWGu/p/yeADMcScw8EW9yxpH
+
 https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
 
-https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/#7c87d7336dc4
+https://en.wikipedia.org/wiki/Mind_uploading
+
 https://www.youtube.com/watch?v=c8-OeGYRFpI
-https://www.google.com/search?client=firefox-b-d&q=Whole+brain+emulation
