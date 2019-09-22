@@ -67,6 +67,11 @@ Repository of ressources about the human intelligence and artificial general int
 [Future of life articles on AI](https://futureoflife.org/ai-news/)
 
 ## To read
+
+[Richard S. Sutton personal page](http://incompleteideas.net/)
+
+[Michael Nielsen personal page](http://michaelnielsen.org/)
+
 https://www.vicarious.com/research/
 
 https://www.vicarious.com/blog/
