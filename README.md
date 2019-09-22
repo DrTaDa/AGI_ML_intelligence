@@ -64,8 +64,6 @@ Repository of ressources about the human intelligence and artificial general int
 
 [LessWrong](https://www.lesswrong.com/)
 
-[Future of life articles on AI](https://futureoflife.org/ai-news/)
-
 ## To read
 
 [Richard S. Sutton personal page](http://incompleteideas.net/)
