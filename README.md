@@ -18,7 +18,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ## Collection of links
 
-### Research centers working directly on AGI, AI/ML
+### AGI and AI research centers
 
 [Numenta](https://numenta.com/)
 
@@ -30,7 +30,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Dalle Molle Institute for Artificial Intelligence Research](http://www.idsia.ch/idsia_en.html)
 
-### Research centers in Neuroscience related to intelligence
+### Neuroscience research centers
 
 [The human brain project](https://www.humanbrainproject.eu/en/)
 
