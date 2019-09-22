@@ -79,6 +79,16 @@ https://intelligence.org/
 
 https://www.youtube.com/watch?v=c8-OeGYRFpI
 
+https://www.ncbi.nlm.nih.gov/pubmed/30530112
+
+https://www.ncbi.nlm.nih.gov/pubmed/31293408
+
+https://science.sciencemag.org/content/364/6444/933
+
+https://www.ncbi.nlm.nih.gov/pubmed/27377299
+
+https://www.ncbi.nlm.nih.gov/pubmed/31431524
+
 ## Unrelated to AGI/intelligence
 
 https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf
