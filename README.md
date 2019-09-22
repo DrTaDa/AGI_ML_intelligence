@@ -78,3 +78,7 @@ https://ieeexplore.ieee.org/document/7013390
 https://intelligence.org/
 
 https://www.youtube.com/watch?v=c8-OeGYRFpI
+
+## Unrelated to AGI/intelligence
+
+https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf
