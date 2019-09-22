@@ -1,8 +1,22 @@
 # Advances toward AGI and the understanding of intelligence
 
-Repository of ressources about the human intelligence and artificial general intelligence (AGI). I am not interested here about progress and research in machine learning, however some research on ML might be relevant to the discussion. I will not discuss here the topic of the threat AGI might pose or the danger of AI/ML.
+Repository of ressources about the human intelligence and artificial general intelligence (AGI). I am not interested here about progress and research in machine learning however some research on ML might be relevant to the discussion. I will not discuss here the dangers related to the use of AGI/AI/ML.
 
-## Collection of ressources
+## Best read and watch
+
+https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
+
+https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full
+
+https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full
+
+https://www.youtube.com/watch?v=qwsft6tmvBA
+
+https://www.youtube.com/watch?v=3FIo6evmweo&t=1883s
+
+https://www.youtube.com/watch?v=Bo8MY4JpiXE
+
+## Collection of links
 
 ### Research centers working directly on AGI, AI/ML
 
@@ -61,9 +75,5 @@ https://ieeexplore.ieee.org/document/7013390
 https://neuroscience.berkeley.edu/
 
 https://intelligence.org/
-
-https://www.lesswrong.com/s/zucjLBpQ9S9eWPWGu/p/yeADMcScw8EW9yxpH
-
-https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
 
 https://www.youtube.com/watch?v=c8-OeGYRFpI
