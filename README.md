@@ -12,7 +12,7 @@ https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full
 
 https://www.youtube.com/watch?v=qwsft6tmvBA
 
-https://www.youtube.com/watch?v=3FIo6evmweo&t=1883s
+https://www.youtube.com/watch?v=3FIo6evmweo
 
 https://www.youtube.com/watch?v=Bo8MY4JpiXE
 
@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=Bo8MY4JpiXE
 
 [Google DeepMind](https://deepmind.com/research)
 
+[Vicarious](https://www.vicarious.com/)
+
+[Dalle Molle Institute for Artificial Intelligence Research](http://www.idsia.ch/idsia_en.html)
+
 ### Research centers in Neuroscience related to intelligence
 
 [The human brain project](https://www.humanbrainproject.eu/en/)
@@ -37,6 +41,8 @@ https://www.youtube.com/watch?v=Bo8MY4JpiXE
 [BRAIN Initiative](https://braininitiative.nih.gov/)
 
 [Human Connectome Project](http://www.humanconnectomeproject.org/)
+
+[Berkley Neuroscience](https://neuroscience.berkeley.edu/)
 
 ### Blogs and personal pages
 
@@ -61,18 +67,13 @@ https://www.youtube.com/watch?v=Bo8MY4JpiXE
 [Future of life articles on AI](https://futureoflife.org/ai-news/)
 
 ## To read
-
-http://www.idsia.ch/idsia_en.html
-
 https://www.vicarious.com/research/
+
+https://www.vicarious.com/blog/
 
 https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
 
-https://opencog.org/
-
 https://ieeexplore.ieee.org/document/7013390
-
-https://neuroscience.berkeley.edu/
 
 https://intelligence.org/
 
