@@ -76,8 +76,6 @@ https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVo
 
 https://ieeexplore.ieee.org/document/7013390
 
-https://intelligence.org/
-
 https://www.youtube.com/watch?v=c8-OeGYRFpI
 
 https://www.ncbi.nlm.nih.gov/pubmed/30530112
