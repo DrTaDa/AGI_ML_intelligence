@@ -92,6 +92,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/27377299
 
 https://www.ncbi.nlm.nih.gov/pubmed/31431524
 
+https://www.nature.com/articles/s42256-019-0025-4
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
