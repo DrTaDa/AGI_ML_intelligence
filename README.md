@@ -76,6 +76,8 @@ https://www.vicarious.com/research/
 
 https://www.vicarious.com/blog/
 
+https://robotics.sciencemag.org/content/4/26/eaav3150/tab-pdf
+
 https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
 
 https://ieeexplore.ieee.org/document/7013390
