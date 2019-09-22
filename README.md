@@ -4,17 +4,17 @@ Repository of ressources about the human intelligence and artificial general int
 
 ## Best read and watch
 
-https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary
+[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 
-https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full
+[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 
-https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full
+[Interview: Lisa Feldman Barrett: How the Brain Creates Emotions](https://www.youtube.com/watch?v=qwsft6tmvBA)
 
-https://www.youtube.com/watch?v=qwsft6tmvBA
+[Interview: Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo)
 
-https://www.youtube.com/watch?v=3FIo6evmweo
+[Interview: François Chollet: Keras, Deep Learning, and the Progress of AI](https://www.youtube.com/watch?v=Bo8MY4JpiXE)
 
-https://www.youtube.com/watch?v=Bo8MY4JpiXE
+[The apologist and the revolutionary, Scott Alexander ](https://www.lesswrong.com/posts/ZiQqsgGX6a42Sfpii/the-apologist-and-the-revolutionary)
 
 ## Collection of links
 
