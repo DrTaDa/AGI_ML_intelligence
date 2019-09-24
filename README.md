@@ -26,7 +26,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Google DeepMind](https://deepmind.com/research)
 
-[Vicarious](https://www.vicarious.com/)
+[Vicarious](https://www.vicarious.com/) and [Github](https://github.com/vicariousinc)
 
 [Dalle Molle Institute for Artificial Intelligence Research](http://www.idsia.ch/idsia_en.html)
 
