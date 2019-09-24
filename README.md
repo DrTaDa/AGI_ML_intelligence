@@ -20,13 +20,13 @@ Repository of ressources about the human intelligence and artificial general int
 
 ### AGI and AI research centers
 
-[Numenta](https://numenta.com/) including their very open [GitHub](https://github.com/numenta)
+[Numenta](https://numenta.com/) including their [GitHub](https://github.com/numenta)
 
 [OpenAI](https://openai.com/)
 
 [Google DeepMind](https://deepmind.com/research)
 
-[Vicarious](https://www.vicarious.com/) and [Github](https://github.com/vicariousinc)
+[Vicarious](https://www.vicarious.com/) and their [Github](https://github.com/vicariousinc)
 
 [Dalle Molle Institute for Artificial Intelligence Research](http://www.idsia.ch/idsia_en.html)
 
