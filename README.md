@@ -20,7 +20,7 @@ Repository of ressources about the human intelligence and artificial general int
 
 ### AGI and AI research centers
 
-[Numenta](https://numenta.com/)
+[Numenta](https://numenta.com/) including their very open [GitHub](https://github.com/numenta)
 
 [OpenAI](https://openai.com/)
 
