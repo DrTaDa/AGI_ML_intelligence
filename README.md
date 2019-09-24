@@ -56,6 +56,8 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Lex Fridman Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 
+[The Hierarchical Temporal Memory school series](https://www.youtube.com/watch?v=XMB0ri4qgwc&list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9)
+
 ### Miscellaneous
 
 [Distill Journal](https://distill.pub/)
