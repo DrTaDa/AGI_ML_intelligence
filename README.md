@@ -70,12 +70,6 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Michael Nielsen personal page](http://michaelnielsen.org/)
 
-https://www.nature.com/articles/s41586-019-1424-8
-
-https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
-
-https://ieeexplore.ieee.org/document/7013390
-
 https://www.youtube.com/watch?v=c8-OeGYRFpI
 
 https://www.ncbi.nlm.nih.gov/pubmed/30530112
