@@ -74,24 +74,29 @@ Repository of ressources about the human intelligence and artificial general int
 
 https://www.youtube.com/watch?v=c8-OeGYRFpI
 
-https://www.ncbi.nlm.nih.gov/pubmed/30530112
-
-https://www.ncbi.nlm.nih.gov/pubmed/31293408
-
-https://science.sciencemag.org/content/364/6444/933
-
-https://www.ncbi.nlm.nih.gov/pubmed/27377299
-
-https://www.ncbi.nlm.nih.gov/pubmed/31431524
-
-https://www.nature.com/articles/s42256-019-0025-4
-
 http://www.cs.toronto.edu/~hinton/
 
 https://www.youtube.com/watch?v=6S1_WqE55UQ
 
 https://deepmind.com/blog/article/grid-cells?fbclid=IwAR1QAFb21r-9otQYfK_8oKJHDE6SpA8ZSrrsDwCuKXszuQeGtYp9Pc0R2IE
 
+
+https://www.ncbi.nlm.nih.gov/pubmed/31293408
+
+https://science.sciencemag.org/content/364/6444/987/tab-pdf
+
+https://www.nature.com/articles/s42256-019-0025-4
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
+
+## Already read, relevant
+
+https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
+
+https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
+
+https://science.sciencemag.org/content/352/6292/1464?fbclid=IwAR1nCXY6bju0QoV1h8keVaVkGCSAKJTfUsRq6eJbJSayl88ep7oofg3Z2oI
+
+https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
