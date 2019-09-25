@@ -78,9 +78,6 @@ http://www.cs.toronto.edu/~hinton/
 
 https://www.youtube.com/watch?v=6S1_WqE55UQ
 
-https://deepmind.com/blog/article/grid-cells?fbclid=IwAR1QAFb21r-9otQYfK_8oKJHDE6SpA8ZSrrsDwCuKXszuQeGtYp9Pc0R2IE
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/31293408
 
 https://science.sciencemag.org/content/364/6444/987/tab-pdf
@@ -100,3 +97,5 @@ https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
 https://science.sciencemag.org/content/352/6292/1464?fbclid=IwAR1nCXY6bju0QoV1h8keVaVkGCSAKJTfUsRq6eJbJSayl88ep7oofg3Z2oI
 
 https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
+
+https://www.nature.com/articles/s41586-018-0102-6
