@@ -90,6 +90,8 @@ http://www.cs.toronto.edu/~hinton/
 
 https://www.youtube.com/watch?v=6S1_WqE55UQ
 
+https://deepmind.com/blog/article/grid-cells?fbclid=IwAR1QAFb21r-9otQYfK_8oKJHDE6SpA8ZSrrsDwCuKXszuQeGtYp9Pc0R2IE
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
