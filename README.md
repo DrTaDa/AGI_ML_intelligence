@@ -101,3 +101,5 @@ https://science.sciencemag.org/content/352/6292/1464?fbclid=IwAR1nCXY6bju0QoV1h8
 https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
 
 https://www.nature.com/articles/s41586-018-0102-6
+
+https://arxiv.org/pdf/1907.13223.pdf
