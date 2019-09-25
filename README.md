@@ -72,6 +72,8 @@ Repository of ressources about the human intelligence and artificial general int
 
 [Michael Nielsen personal page](http://michaelnielsen.org/)
 
+https://ai.googleblog.com/
+
 https://www.youtube.com/watch?v=c8-OeGYRFpI
 
 http://www.cs.toronto.edu/~hinton/
