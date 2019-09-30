@@ -90,6 +90,10 @@ https://openreview.net/forum?id=Bkxbrn0cYX
 
 https://arxiv.org/abs/1903.04476
 
+https://www.researchgate.net/publication/26753678_Holtmaat_A_Svoboda_K_Experience-dependent_structural_synaptic_plasticity_in_the_mammalian_brain_Nat_Rev_Neurosci_10_647-658
+
+https://www.ncbi.nlm.nih.gov/pubmed/26354919
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
