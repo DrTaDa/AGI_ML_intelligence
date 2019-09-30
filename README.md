@@ -86,6 +86,10 @@ https://science.sciencemag.org/content/364/6444/987/tab-pdf
 
 https://www.nature.com/articles/s42256-019-0025-4
 
+https://openreview.net/forum?id=Bkxbrn0cYX
+
+https://arxiv.org/abs/1903.04476
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
