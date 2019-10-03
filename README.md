@@ -94,6 +94,8 @@ https://www.researchgate.net/publication/26753678_Holtmaat_A_Svoboda_K_Experienc
 
 https://www.ncbi.nlm.nih.gov/pubmed/26354919
 
+https://norvig.com/21-days.html
+
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
