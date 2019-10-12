@@ -94,24 +94,8 @@ https://www.researchgate.net/publication/26753678_Holtmaat_A_Svoboda_K_Experienc
 
 https://www.ncbi.nlm.nih.gov/pubmed/26354919
 
-
-
 ## Unrelated to AGI/intelligence
 
 [A Societal Sleep Prescription](https://www.cell.com/neuron/pdf/S0896-6273(19)30565-3.pdf)
 
 [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
-
-## Already read, relevant
-
-https://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci
-
-https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
-
-https://science.sciencemag.org/content/352/6292/1464?fbclid=IwAR1nCXY6bju0QoV1h8keVaVkGCSAKJTfUsRq6eJbJSayl88ep7oofg3Z2oI
-
-https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf
-
-https://www.nature.com/articles/s41586-018-0102-6
-
-https://arxiv.org/pdf/1907.13223.pdf
