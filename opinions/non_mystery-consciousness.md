@@ -1,4 +1,4 @@
-# The non-mystery of consciousness: the theory of Juergen Schmidhuber (12/05/2020)
+# The non-mystery of consciousness: the theory of Juergen Schmidhuber - 12/05/2020
 
 When trying to define consciousness, we quickly get lost in the diversity of phenomena it surfaces through. Browsing definitions of consciousness proposed by philosophers, neuroscientists or psychologists feels like each holds a part of the truth without any ever being able to grasp its essence. Almost as if the word consciousness could only be polysemic.
 
